@@ -1,9 +1,10 @@
-/dist
+tutorial/dist
 /tmp
 /out-tsc
+tutorial/package-lock.json
 
 # dependencies
-/node_modules
+tutorial/node_modules
 
 # IDEs and editors
 /.idea
